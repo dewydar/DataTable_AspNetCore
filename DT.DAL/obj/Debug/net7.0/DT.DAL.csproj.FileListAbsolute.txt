@@ -1,0 +1,12 @@
+F:\Work\DataTable_AspNetCore\DT.DAL\bin\Debug\net7.0\DT.DAL.deps.json
+F:\Work\DataTable_AspNetCore\DT.DAL\bin\Debug\net7.0\DT.DAL.dll
+F:\Work\DataTable_AspNetCore\DT.DAL\bin\Debug\net7.0\DT.DAL.pdb
+F:\Work\DataTable_AspNetCore\DT.DAL\obj\Debug\net7.0\DT.DAL.csproj.AssemblyReference.cache
+F:\Work\DataTable_AspNetCore\DT.DAL\obj\Debug\net7.0\DT.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\DataTable_AspNetCore\DT.DAL\obj\Debug\net7.0\DT.DAL.AssemblyInfoInputs.cache
+F:\Work\DataTable_AspNetCore\DT.DAL\obj\Debug\net7.0\DT.DAL.AssemblyInfo.cs
+F:\Work\DataTable_AspNetCore\DT.DAL\obj\Debug\net7.0\DT.DAL.csproj.CoreCompileInputs.cache
+F:\Work\DataTable_AspNetCore\DT.DAL\obj\Debug\net7.0\DT.DAL.dll
+F:\Work\DataTable_AspNetCore\DT.DAL\obj\Debug\net7.0\refint\DT.DAL.dll
+F:\Work\DataTable_AspNetCore\DT.DAL\obj\Debug\net7.0\DT.DAL.pdb
+F:\Work\DataTable_AspNetCore\DT.DAL\obj\Debug\net7.0\ref\DT.DAL.dll

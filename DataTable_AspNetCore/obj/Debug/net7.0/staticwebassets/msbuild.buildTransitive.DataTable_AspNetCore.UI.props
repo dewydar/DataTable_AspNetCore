@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DataTable_AspNetCore.UI.props" />
+</Project>

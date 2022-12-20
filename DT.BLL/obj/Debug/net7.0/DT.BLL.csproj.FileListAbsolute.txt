@@ -1,0 +1,12 @@
+F:\Work\DataTable_AspNetCore\DT.BLL\bin\Debug\net7.0\DT.BLL.deps.json
+F:\Work\DataTable_AspNetCore\DT.BLL\bin\Debug\net7.0\DT.BLL.dll
+F:\Work\DataTable_AspNetCore\DT.BLL\bin\Debug\net7.0\DT.BLL.pdb
+F:\Work\DataTable_AspNetCore\DT.BLL\obj\Debug\net7.0\DT.BLL.csproj.AssemblyReference.cache
+F:\Work\DataTable_AspNetCore\DT.BLL\obj\Debug\net7.0\DT.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\DataTable_AspNetCore\DT.BLL\obj\Debug\net7.0\DT.BLL.AssemblyInfoInputs.cache
+F:\Work\DataTable_AspNetCore\DT.BLL\obj\Debug\net7.0\DT.BLL.AssemblyInfo.cs
+F:\Work\DataTable_AspNetCore\DT.BLL\obj\Debug\net7.0\DT.BLL.csproj.CoreCompileInputs.cache
+F:\Work\DataTable_AspNetCore\DT.BLL\obj\Debug\net7.0\DT.BLL.dll
+F:\Work\DataTable_AspNetCore\DT.BLL\obj\Debug\net7.0\refint\DT.BLL.dll
+F:\Work\DataTable_AspNetCore\DT.BLL\obj\Debug\net7.0\DT.BLL.pdb
+F:\Work\DataTable_AspNetCore\DT.BLL\obj\Debug\net7.0\ref\DT.BLL.dll

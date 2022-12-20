@@ -1,0 +1,12 @@
+F:\Work\DataTable_AspNetCore\DT.Resources.cs\bin\Debug\net7.0\DT.Resources.cs.deps.json
+F:\Work\DataTable_AspNetCore\DT.Resources.cs\bin\Debug\net7.0\DT.Resources.cs.dll
+F:\Work\DataTable_AspNetCore\DT.Resources.cs\bin\Debug\net7.0\DT.Resources.cs.pdb
+F:\Work\DataTable_AspNetCore\DT.Resources.cs\obj\Debug\net7.0\DT.Resources.cs.csproj.AssemblyReference.cache
+F:\Work\DataTable_AspNetCore\DT.Resources.cs\obj\Debug\net7.0\DT.Resources.cs.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\DataTable_AspNetCore\DT.Resources.cs\obj\Debug\net7.0\DT.Resources.cs.AssemblyInfoInputs.cache
+F:\Work\DataTable_AspNetCore\DT.Resources.cs\obj\Debug\net7.0\DT.Resources.cs.AssemblyInfo.cs
+F:\Work\DataTable_AspNetCore\DT.Resources.cs\obj\Debug\net7.0\DT.Resources.cs.csproj.CoreCompileInputs.cache
+F:\Work\DataTable_AspNetCore\DT.Resources.cs\obj\Debug\net7.0\DT.Resources.cs.dll
+F:\Work\DataTable_AspNetCore\DT.Resources.cs\obj\Debug\net7.0\refint\DT.Resources.cs.dll
+F:\Work\DataTable_AspNetCore\DT.Resources.cs\obj\Debug\net7.0\DT.Resources.cs.pdb
+F:\Work\DataTable_AspNetCore\DT.Resources.cs\obj\Debug\net7.0\ref\DT.Resources.cs.dll
