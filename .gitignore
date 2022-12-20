@@ -3,3 +3,4 @@
 ################################################################################
 
 /.vs/DataTable_AspNetCore
+/DataTable_AspNetCore/obj/Debug/net7.0/DataTable_AspNetCore.UI.csproj.BuildWithSkipAnalyzers
