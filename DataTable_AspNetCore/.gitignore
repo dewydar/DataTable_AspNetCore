@@ -36,8 +36,5 @@ msbuild.wrn
 # Visual Studio 2015
 .vs/
 .pubxml
-/ScientificPromotions.UI/wwwroot/Attachments/Workflow/1/60/60-1.pdf
-/ScientificPromotions.UI/wwwroot/Attachments/Workflow/1/61
-/ScientificPromotions.UI/wwwroot/Attachments/Workflow/36/63
-/ScientificPromotions.UI/Properties/PublishProfiles/FolderProfile.pubxml
-/ScientificPromotions.UI/wwwroot/Attachments
+/bin
+/obj
